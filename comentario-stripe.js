@@ -1,0 +1,1 @@
+// El archivo stripe es para poder usar la terminal cmd dentro de visual studio code ya que sin este no se puede arrancar el comando stripe
