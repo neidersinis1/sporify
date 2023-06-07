@@ -4,7 +4,7 @@
 
 The stripe.exe file is to start the stripe command, without it it does not start
 
-This is a repository for a Full Stack spotify Clone with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth.
+This is a repository for a Full Stack spotify Clone with Next.js 13 App Router: React, TypeScript, Tailwind, Supabase, Stripe
 
 [VIDEO TUTORIAL](https://youtu.be/2aeMRB8LL4o)
 
